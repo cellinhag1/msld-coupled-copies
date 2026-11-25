@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.psf
+*.crd
+*.dcd
+*.str
+*.log
+*.out
+build.*/
+msld_build/
